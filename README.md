@@ -4,7 +4,6 @@
 
 I enjoy building reusable component systems, clean state management and smooth, animated interfaces. I work closely with backend, QA, product and design teams, and use AI-assisted tools (Claude Code, Codex, ChatGPT) in my day-to-day workflow for debugging, refactoring and exploring alternative approaches.
 
-- 🔭 Currently building small open-source projects and experiments
 - 🌱 Deepening my **Node.js** / backend skills on the way to full-stack
 - 💼 Open to **Frontend** and **Full-Stack** roles — remote or in Türkiye
 - 📫 [LinkedIn](https://linkedin.com/in/dogukan-bektas/) · dogukannbektas@gmail.com
